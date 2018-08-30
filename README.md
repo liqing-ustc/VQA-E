@@ -1,9 +1,7 @@
 # VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions
 
 ## Dataset Download
-Images:
-
-[COCO](http://cocodataset.org/#download)
+[COCO](http://cocodataset.org/#download) Images:
 
 [Training images \[83K/13GB\]](http://images.cocodataset.org/zips/train2014.zip), [Validation Images \[41K/6GB\]](http://images.cocodataset.org/zips/val2014.zip)
 
