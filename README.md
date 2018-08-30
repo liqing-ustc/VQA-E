@@ -7,6 +7,17 @@
 VQA-E Dataset:
 [Google Drive](https://drive.google.com/open?id=1SD6-ktSyOPpSwq1vsHbfmee8ueHvrf5a)
 
+```
+annotation{
+    "image_id" : int,
+    "question_type" : str,
+    "answer_type" : str,
+    "answers" : [answer],
+    "multiple_choice_answer" : str,
+    "explanation": [explanation, score]
+}
+```
+
 ### Reference
 If you use the VQA-E dataset as part of any published research, please acknowledge the following paper
 ```
