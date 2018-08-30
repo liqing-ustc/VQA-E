@@ -3,7 +3,7 @@
 ## Dataset Download
 Images:
 [COCO](http://cocodataset.org/#download)
-[Training images](http://images.cocodataset.org/zips/train2014.zip)(83K/13GB), [Validation Images](http://images.cocodataset.org/zips/val2014.zip)(41K/6GB)
+[Training images \[83K/13GB\]](http://images.cocodataset.org/zips/train2014.zip), [Validation Images](http://images.cocodataset.org/zips/val2014.zip)(41K/6GB)
 Annotations:
 [Google Drive]()
 
