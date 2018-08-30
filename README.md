@@ -4,9 +4,10 @@
 [COCO](http://cocodataset.org/#download) Images:
 [Training images \[83K/13GB\]](http://images.cocodataset.org/zips/train2014.zip), [Validation Images \[41K/6GB\]](http://images.cocodataset.org/zips/val2014.zip)
 
-VQA-E Dataset:
+VQA-E dataset:
 [Google Drive](https://drive.google.com/open?id=1SD6-ktSyOPpSwq1vsHbfmee8ueHvrf5a)
 
+Annotation format:
 ```
 annotation{
     "image_id" : int,
